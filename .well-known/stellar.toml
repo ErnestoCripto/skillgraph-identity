@@ -5,7 +5,7 @@
 ORG_NAME = "SkillGraph Academy"
 ORG_URL = "https://ErnestoCripto.github.io/skillgraph-identity"
 ORG_DESCRIPTION = "Infraestructura de Identidad Profesional en Stellar"
-ORG_LOGO = "https://raw.githubusercontent.com/ErnestoCripto/skillgraph-identity/main/logo.png"
+ORG_LOGO = "https://raw.githubusercontent.com/ErnestoCripto/skillgraph-identity/main/Logo SkillGraph.png"
 
 [[CURRENCIES]]
 code = "STELLAR01"
@@ -13,4 +13,4 @@ issuer = "GAV0A6QBBSDKH3NMD2LQIJBXT3CZPG4CHFGMNDZ4PJ63T7XVK5VKGF6"
 display_decimals = 0
 name = "Introducción a la Red Stellar"
 desc = "Hito que certifica la comprensión de la arquitectura de Stellar."
-image = "https://raw.githubusercontent.com/ErnestoCripto/skillgraph-identity/main/logo.png"
+image = "https://raw.githubusercontent.com/ErnestoCripto/skillgraph-identity/main/Logo SkillGraph.png"
